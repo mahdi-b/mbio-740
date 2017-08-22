@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Gems
+gems: [jekyll-paginate]
+
+# Setup
+title:               MBIO 740
+tagline:             'Topics in Quantitative Biology'
+description:         'Introduction to Data Science for Life Scientists'
+url:                 www.google.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mahdi Belcaid
+  url:               https://twitter.com/mahdi_belcaid
+
+
+# Custom vars
+version:             1.0.0
+
